@@ -1,0 +1,65 @@
+{
+  "default": "default",
+  "wallpapers": [
+    {
+      "id": "01-Estrellas",
+      "label": "Estrellas",
+      "web": "01-Estrellas-web.webp",
+      "movil": "01-Estrellas-movil.webp"
+    },
+    {
+      "id": "02-Burbujas",
+      "label": "Burbujas",
+      "web": "02-Burbujas-web.webp",
+      "movil": "02-Burbujas-movil.webp"
+    },
+    {
+      "id": "03-Ondas",
+      "label": "Ondas",
+      "web": "03-Ondas-web.webp",
+      "movil": "03-Ondas-movil.webp"
+    },
+    {
+      "id": "04-Organico",
+      "label": "Organico",
+      "web": "04-Organico-web.webp",
+      "movil": "04-Organico-movil.webp"
+    },
+    {
+      "id": "05-Puntos",
+      "label": "Puntos",
+      "web": "05-Puntos-web.webp",
+      "movil": "05-Puntos-movil.webp"
+    },
+    {
+      "id": "06-Diagonales",
+      "label": "Diagonales",
+      "web": "06-Diagonales-web.webp",
+      "movil": "06-Diagonales-movil.webp"
+    },
+    {
+      "id": "07-Montanas",
+      "label": "Montanas",
+      "web": "07-Montanas-web.webp",
+      "movil": "07-Montanas-movil.webp"
+    },
+    {
+      "id": "08-Degradado",
+      "label": "Degradado",
+      "web": "08-Degradado-web.webp",
+      "movil": "08-Degradado-movil.webp"
+    },
+    {
+      "id": "09-Topografico",
+      "label": "Topografico",
+      "web": "09-Topografico-web.webp",
+      "movil": "09-Topografico-movil.webp"
+    },
+    {
+      "id": "10-Geometrico",
+      "label": "Geometrico",
+      "web": "10-Geometrico-web.webp",
+      "movil": "10-Geometrico-movil.webp"
+    }
+  ]
+}
